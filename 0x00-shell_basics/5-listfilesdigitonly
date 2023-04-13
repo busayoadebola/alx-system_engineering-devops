@@ -1,2 +1,2 @@
 #!/bin/bash 
- ls -la | sort -k3
+ ls -la | sort -k6
