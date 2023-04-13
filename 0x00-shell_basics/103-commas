@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -amxp
+#!/bin/bash 
+ ls -amxp --format=comma
