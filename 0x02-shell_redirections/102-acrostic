@@ -1,2 +1,2 @@
-#!/bib/bash
-tr -s ' ' '\n' | cut -c 1
+#!/bin/bash
+cut -d ' ' -f 1
